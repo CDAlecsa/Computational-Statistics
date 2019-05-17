@@ -9,4 +9,3 @@ This a data repository concerning a Python based implementation (created in Spyd
 'Metropolis.py' file :
 - The classical Metropolis algorithm is defined as a function and used in order to approximate the exact distribution (I have called it 'Estimated distribution')
 
-# Copyright © 2019 Cristian Daniel Alecsa
